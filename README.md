@@ -22,19 +22,7 @@ pip install networkx matplotlib
 Note: tkinter is included with standard Python installations, so no separate installation is typically required.
 
 How to Run
-Clone this repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your-username/shortest-path-finder.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd shortest-path-finder
-Run the application:
-
-bash
 Copy code
 python main.py
 The application window will open. Select the starting and ending bus stops, choose the criteria (distance, time, or cost), and click "Find Shortest Path" to visualize the route.
